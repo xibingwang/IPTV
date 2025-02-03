@@ -29,6 +29,8 @@ http://39.135.133.162/wh7f454c46tw1964730533_649981197/ottrrs.hl.chinamobile.com
 https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3
 http://58.19.38.162:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3
+http://127.0.0.1:35455/gaoma/cctv3.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV4
 http://39.135.126.62/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV4
