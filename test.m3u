@@ -137,10 +137,6 @@ https://0472.org/hls/cgtnd.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png",CGTN英语
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="卫视频道",Unknown_49
-http://39.135.133.157/wh7f454c46tw2522821114_53649339/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1737218009&from=23&hms_devid=1247&online=1737218009&vqe=3
-#EXTINF:-1 group-title="卫视频道",Unknown_60
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png",安徽卫视
 http://39.135.126.62/PLTV/88888888/224/3221226447/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png",安徽卫视
