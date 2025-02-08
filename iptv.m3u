@@ -4,17 +4,11 @@ http://39.135.126.62/PLTV/88888888/224/3221226443/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
 http://39.135.126.62/PLTV/88888888/224/3221226709/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://39.135.126.62/PLTV/88888888/224/3221226896/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://39.135.133.169/wh7f454c46tw1796751682_1376672973/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8?icpid=88888888&RTS=1737036895&from=23&hms_devid=1243&online=1737036895&vqe=3
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
 http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227001/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
-http://39.135.126.62/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
 http://39.135.126.62/PLTV/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
@@ -301,12 +295,6 @@ http://39.135.126.62/PLTV/88888888/224/3221226865/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221226865/index.m3u8
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" group-title="卫视频道",辽宁北方
 http://39.134.61.218/PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:-1,辽宁教育
-http://39.135.126.62/PLTV/88888888/224/3221226863/index.m3u8
-#EXTINF:-1,辽宁教育
-http://39.134.61.219/PLTV/88888888/224/3221226863/index.m3u8
-#EXTINF:-1,辽宁教育
-http://39.134.61.218/PLTV/88888888/224/3221226863/index.m3u8
 #EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" group-title="卫视频道",辽宁经济
 http://39.135.126.62/PLTV/88888888/224/3221226504/index.m3u8
 #EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" group-title="卫视频道",辽宁经济
@@ -353,26 +341,6 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/i
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226689/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226998/index.m3u8
-#EXTINF:-1,辽宁移动
-http://39.135.126.62/PLTV/88888888/224/3221226717/index.m3u8
-#EXTINF:-1,辽宁移动
-http://39.135.126.62/PLTV/88888888/224/3221226867/index.m3u8
-#EXTINF:-1,辽宁移动
-http://39.134.61.219/PLTV/88888888/224/3221226717/index.m3u8
-#EXTINF:-1,辽宁移动
-http://39.134.61.219/PLTV/88888888/224/3221226867/index.m3u8
-#EXTINF:-1,辽宁移动
-http://39.134.61.218/PLTV/88888888/224/3221226717/index.m3u8
-#EXTINF:-1,辽宁影视
-http://39.135.126.62/PLTV/88888888/224/3221226861/index.m3u8
-#EXTINF:-1,辽宁影视
-http://39.134.61.219/PLTV/88888888/224/3221226512/index.m3u8
-#EXTINF:-1,辽宁影视
-http://39.134.61.219/PLTV/88888888/224/3221226861/index.m3u8
-#EXTINF:-1,辽宁影视
-http://39.134.61.218/PLTV/88888888/224/3221226512/index.m3u8
-#EXTINF:-1,辽宁影视
-http://39.134.61.218/PLTV/88888888/224/3221226861/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
@@ -409,8 +377,6 @@ http://39.135.133.157/wh7f454c46tw171584275_-84457783/ottrrs.hl.chinamobile.com/
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" group-title="卫视频道",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
-#EXTINF:-1,影迷电影
-http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道",云南卫视
 http://111.29.9.37:6610/000000001000/1000000002000024694/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
@@ -431,316 +397,6 @@ http://39.135.126.62/PLTV/88888888/224/3221226885/index.m3u8
 http://39.135.133.179/wh7f454c46tw743371701_785854565/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1737044431&from=23&hms_devid=1248&online=1737044431&vqe=3
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226737/index.m3u8
-#EXTINF:-1,咪咕1
-http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1,咪咕2
-http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1,咪咕3
-http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-#EXTINF:-1,咪咕4
-http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-#EXTINF:-1,咪咕6
-http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
-#EXTINF:-1,咪咕7
-http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
-#EXTINF:-1,咪咕直播 𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟙𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟚𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟛𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播 𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1,咪咕直播4K「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1,晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1,晴彩竞技「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1,晴彩篮球「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1,晴彩少年「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1,NewTV爱情喜剧
-http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
-#EXTINF:-1,NewTV超级电视剧
-http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/1.m3u8
-#EXTINF:-1,NewTV超级电视剧
-http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1,NewTV超级电视剧
-http://39.134.65.173/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1,NewTV超级电视剧
-http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1,NewTV超级电视剧
-http://39.134.65.181/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1,NewTV超级电视剧
-http://39.134.65.179/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1,NewTV超级电影
-http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1,NewTV超级电影
-http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1,NewTV超级电影
-http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1,NewTV超级电影
-http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1,NewTV超级电影
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/1.m3u8
-#EXTINF:-1,NewTV超级体育
-http://39.134.65.72:80/wh7f454c46tw1831306733_-351349546/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?
-#EXTINF:-1,NewTV超级体育
-http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
-#EXTINF:-1,NewTV超级综艺
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8
-#EXTINF:-1,NewTV超级综艺
-http://39.134.65.78:80/wh7f454c46tw1722648755_566757033/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?icpid=88888888&RTS=1554599495&from=1&hms_devid=128
-#EXTINF:-1,NewTV超级综艺
-http://39.134.65.78:80/wh7f454c46tw1722648755_566757033/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?
-#EXTINF:-1,NewTV超级综艺
-http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8
-#EXTINF:-1,NewTV潮妈辣婆
-http://39.134.65.164/PLTV/88888888/224/3221225542/1.m3u8
-#EXTINF:-1,NewTV潮妈辣婆
-http://39.134.65.81:80/wh7f454c46tw1843139764_1553247970/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?
-#EXTINF:-1,NewTV潮妈辣婆
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1,NewTV潮妈辣婆
-http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
-#EXTINF:-1,NewTV潮妈辣婆
-http://39.134.65.88:80/wh7f454c46tw1933126788_676462383/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=134
-#EXTINF:-1,NewTV潮妈辣婆
-http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
-#EXTINF:-1,NewTV潮妈辣婆
-http://39.134.65.81:80/wh7f454c46tw1843139764_1553247970/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?icpid=88888888&RTS=1554599615&from=1&hms_devid=124
-#EXTINF:-1,NewTV东北热剧
-http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1,NewTV东北热剧
-http://39.134.65.179/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1,NewTV东北热剧
-http://39.134.65.173/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1,NewTV东北热剧
-http://39.135.137.47:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/1.m3u8
-#EXTINF:-1,NewTV东北热剧
-http://39.135.137.46:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/1.m3u8
-#EXTINF:-1,NewTV东北热剧
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1,NewTV东北热剧
-http://39.135.135.35:80/wh7f454c46tw1751026922_1159821621/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?
-#EXTINF:-1,NewTV东北热剧
-http://39.134.65.164/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1,NewTV东北热剧
-http://39.135.135.35:80/wh7f454c46tw1751026922_1159821621/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1554599523&from=1&hms_devid=691
-#EXTINF:-1,NewTV动画王国
-http://39.134.65.71:80/wh7f454c46tw1802519123_-1211386025/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1554599575&from=1&hms_devid=135
-#EXTINF:-1,NewTV动画王国
-http://39.134.65.8:80/wh7f454c46tw1932618304_-1568321494/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=14
-#EXTINF:-1,NewTV动作电影
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/1.m3u8
-#EXTINF:-1,NewTV动作电影
-http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1,NewTV动作电影
-http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1,NewTV动作电影
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1,NewTV动作电影
-http://39.134.65.64:80/wh7f454c46tw1788616257_998076752/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8?icpid=88888888&RTS=1554599561&from=1&hms_devid=125
-#EXTINF:-1,NewTV动作电影
-http://39.134.65.64:80/wh7f454c46tw1788616257_998076752/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8?
-#EXTINF:-1,NewTV功夫剧场
-http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130
-#EXTINF:-1,NewTV古装剧场
-http://39.134.65.164/PLTV/88888888/224/3221225524/1.m3u8
-#EXTINF:-1,NewTV古装剧场
-http://39.134.65.72:80/wh7f454c46tw1932819744_-1993410261/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=132
-#EXTINF:-1,NewTV古装剧场
-http://39.134.65.166/PLTV/88888888/224/3221225524/1.m3u8
-#EXTINF:-1,NewTV海外剧场
-http://39.134.65.68:80/wh7f454c46tw1780045664_-196684341/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1554599552&from=1&hms_devid=133
-#EXTINF:-1,NewTV海外剧场
-http://39.134.65.68:80/wh7f454c46tw1780045664_-196684341/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?
-#EXTINF:-1,NewTV黑莓电竞
-http://39.134.65.75:80/wh7f454c46tw1874103717_-1354686268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8?
-#EXTINF:-1,NewTV黑莓动画
-http://39.134.65.71:80/wh7f454c46tw1802519123_-1211386025/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?
-#EXTINF:-1,NewTV欢乐剧场
-http://39.134.65.179/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1,NewTV欢乐剧场
-http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1,NewTV欢乐剧场
-http://39.134.65.173/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1,NewTV欢乐剧场
-http://39.134.65.166/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1,NewTV欢乐剧场
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1,NewTV欢乐剧场
-http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1,NewTV欢乐剧场
-http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
-#EXTINF:-1,NewTV家庭剧场
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1,NewTV家庭剧场
-http://39.134.65.166/PLTV/88888888/224/3221225538/1.m3u8
-#EXTINF:-1,NewTV家庭剧场
-http://39.134.65.164/PLTV/88888888/224/3221225538/1.m3u8
-#EXTINF:-1,NewTV家庭剧场
-http://39.134.65.6:80/wh7f454c46tw1932829804_1276949297/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1,NewTV金牌综艺
-http://39.134.65.166/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1,NewTV金牌综艺
-http://39.134.65.71:80/wh7f454c46tw1932631685_2130682535/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=135
-#EXTINF:-1,NewTV金牌综艺
-http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1,NewTV金牌综艺
-http://39.134.65.173/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1,NewTV金牌综艺
-http://39.134.65.179/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1,NewTV惊悚悬疑
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/1.m3u8
-#EXTINF:-1,NewTV惊悚悬疑
-http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
-#EXTINF:-1,NewTV惊悚悬疑
-http://39.134.65.6:80/wh7f454c46tw1933006885_-663399866/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1,NewTV精品大剧
-http://39.134.65.166/PLTV/88888888/224/3221225536/1.m3u8
-#EXTINF:-1,NewTV精品大剧
-http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1,NewTV精品大剧
-http://39.134.65.72:80/wh7f454c46tw1933009495_-1510557471/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=132
-#EXTINF:-1,NewTV精品纪录
-http://39.134.65.88:80/wh7f454c46tw1932618676_-704003954/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=134
-#EXTINF:-1,NewTV精品纪录
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1,NewTV精品纪录
-http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
-#EXTINF:-1,NewTV精品纪录
-http://39.134.65.75:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1,NewTV精品纪录
-http://39.134.65.166/PLTV/88888888/224/3221225545/1.m3u8
-#EXTINF:-1,NewTV精品体育
-http://39.134.65.6:80/wh7f454c46tw1933117244_-1636594045/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1,NewTV精品体育
-http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
-#EXTINF:-1,NewTV精品体育
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1,NewTV精品体育
-http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1,NewTV精品综合
-http://39.134.65.166/PLTV/88888888/224/3221225550/1.m3u8
-#EXTINF:-1,NewTV精品综合
-http://39.134.65.164/PLTV/88888888/224/3221225550/1.m3u8
-#EXTINF:-1,NewTV军旅剧场
-http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
-#EXTINF:-1,NewTV军旅剧场
-http://39.134.65.80:80/wh7f454c46tw1755892000_-1275912247/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?
-#EXTINF:-1,NewTV军旅剧场
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/1.m3u8
-#EXTINF:-1,NewTV军旅剧场
-http://39.134.65.80:80/wh7f454c46tw1755892000_-1275912247/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1554599528&from=1&hms_devid=124
-#EXTINF:-1,NewTV军旅剧场
-http://39.134.65.80:80/wh7f454c46tw1933127363_696277505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=124
-#EXTINF:-1,NewTV军事评论
-http://39.134.65.69:80/wh7f454c46tw1826525686_48064986/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?
-#EXTINF:-1,NewTV军事评论
-http://39.134.65.69:80/wh7f454c46tw1826525686_48064986/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1554599599&from=1&hms_devid=133
-#EXTINF:-1,NewTV军事评论
-http://39.134.65.166/PLTV/88888888/224/3221225535/1.m3u8
-#EXTINF:-1,NewTV军事评论
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
-#EXTINF:-1,NewTV明星大片
-http://39.134.65.6:80/wh7f454c46tw1932626875_2136730600/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1,NewTV明星大片
-http://39.134.65.7:80/wh7f454c46tw1738936394_2033607545/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1554599511&from=1&hms_devid=29
-#EXTINF:-1,NewTV明星大片
-http://39.134.65.7:80/wh7f454c46tw1738936394_2033607545/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?
-#EXTINF:-1,NewTV农业致富
-http://39.134.65.164/PLTV/88888888/224/3221225552/1.m3u8
-#EXTINF:-1,NewTV农业致富
-http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/1.m3u8
-#EXTINF:-1,NewTV农业致富
-http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
-#EXTINF:-1,NewTV全电竞
-http://39.134.65.75:80/wh7f454c46tw1874103717_-1354686268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8?icpid=88888888&RTS=1554599646&from=1&hms_devid=127
-#EXTINF:-1,NewTV热播精选
-http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
-#EXTINF:-1,NewTV武博世界
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1,Newtv武博世界
-http://39.134.65.65:80/wh7f454c46tw1933118763_-691332913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=125
-#EXTINF:-1,NewTV武搏世界
-http://39.134.65.166/PLTV/88888888/224/3221225547/1.m3u8
-#EXTINF:-1,NewTV炫舞未来
-http://39.134.65.80:80/wh7f454c46tw1858340058_-1098694147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8?icpid=88888888&RTS=1554599630&from=1&hms_devid=124
-#EXTINF:-1,NewTV炫舞未来
-http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
-#EXTINF:-1,NewTV中国功夫
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
 http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226893/index.m3u8?from=21
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
@@ -783,3 +439,81 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226875/index.m3
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226872/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226868/index.m3u8
+#EXTINF:-1,咪咕直播 𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟙𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟚𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播 𝟛𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+#EXTINF:-1,咪咕直播4K「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
