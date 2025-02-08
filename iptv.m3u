@@ -343,6 +343,10 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226689/i
 http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
+http://39.134.65.82:80/wh7f454c46tw1789473851_927917788/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1554599561&from=1&hms_devid=137
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
+http://39.134.65.6:80/wh7f454c46tw1787460489_45737454/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8?icpid=88888888&RTS=1554599559&from=1&hms_devid=29
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://39.135.126.62/PLTV/88888888/224/3221226486/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
